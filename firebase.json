@@ -8,8 +8,16 @@
     ],
     "rewrites": [
       {
-        "source": "/assets/**",
-        "destination": "/assets/**"
+        "source": "/assets/rect-cover.png",
+        "destination": "/assets/rect-cover.png"
+      },
+      {
+        "source": "/assets/square-cover.png",
+        "destination": "/assets/square-cover.png"
+      },
+      {
+        "source": "/assets/twitter-media-card.png",
+        "destination": "/assets/twitter-media-card.png"
       },
       {
         "source": "**",

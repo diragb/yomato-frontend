@@ -8,6 +8,10 @@
     ],
     "rewrites": [
       {
+        "source": "!/twitter-media-card.jpg",
+        "destination": "/index.html"
+      },
+      {
         "source": "**",
         "destination": "/index.html"
       }

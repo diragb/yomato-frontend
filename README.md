@@ -12,7 +12,7 @@ After that, you may spin up the frontend by running:
 yarn start
 ```
 
-In order for API calls to work properly, you may clone and run [yomato-backend](https://github.com/diragb/yomato-backend) on the side. This would require you to create a `.env` file at the root of this project similar to the `.example.env` file present.
+In order for API calls to work properly, you may clone and run [yomato-backend](https://github.com/diragb/yomato-backend) on the side. This would require you to update the `.env` file at the root of this project with contents from the `.example.env` file.
 
 # License
 MIT
